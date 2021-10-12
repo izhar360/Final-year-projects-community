@@ -8,7 +8,7 @@ Get ideas for final year projects or share your existing project for contributio
 
 ![Spread the Word](https://raw.githubusercontent.com/trekhleb/promote-your-next-startup/master/assets/spread-the-word.jpg)
 
-## Post News
+## Projects
 
 | Project | About |
 | ---- | ----- |
