@@ -12,5 +12,4 @@ Get ideas for final year projects or share your existing project for contributio
 
 | Project | About |
 | ---- | ----- |
-| [BadaBing](https://github.com/izhar360/BadBingFrontEnd) | Blog with MERN STACK, MATERIAL UI , NEXT JS |
 | [Vintage eCommerce](https://github.com/izhar360/vintageFront) | eCommerce store with React JS and firebase |
